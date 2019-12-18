@@ -1,6 +1,8 @@
 # text-summarizer
 For detailed understanding kindly refer master repositery https://github.com/ajhalthor/text-summarizer.
 
+![Localhost](img/localhost.jpg)
+
 ### Note : 
 This repositery is for converting  ajhalthor/text-summarizer repositery into web application 
 

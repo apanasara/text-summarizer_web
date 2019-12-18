@@ -1,5 +1,5 @@
 # text-summarizer
-For detailed understanding kindly refer master repositery https://github.com/ajhalthor/text-summarizer.
+For detailed understanding of algorithm, kindly refer master repositery https://github.com/ajhalthor/text-summarizer.
 
 ![Localhost](img/localhost.jpg)
 
